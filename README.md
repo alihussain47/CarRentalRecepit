@@ -6,3 +6,9 @@ Run `bundle install`
 
 Run `bundle exec rake test` to run the test cases
 
+## Main classes
+
+* Car
+* Driver
+* Rental
+
